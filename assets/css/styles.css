@@ -1,6 +1,8 @@
 body{
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
  }
+
+ /* Now I understand where dim came from. */
  .dim{
     opacity: 0.1555;
   }
